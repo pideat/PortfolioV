@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfoliov/static/css/main.02f9e8b3.css",
+    "main.js": "/portfoliov/static/js/main.5010d26e.js",
+    "static/media/profile.png": "/portfoliov/static/media/profile.f60d355580e6cb4db46d.png",
+    "static/media/Mikrotik.png": "/portfoliov/static/media/Mikrotik.a3517cfee2f5b877b4c2.png",
+    "static/media/Photoshop.png": "/portfoliov/static/media/Photoshop.3c72d46dfe9100892bff.png",
+    "static/media/Vidy.png": "/portfoliov/static/media/Vidy.ab2507ea521b1d796cab.png",
+    "static/media/Microsoft.png": "/portfoliov/static/media/Microsoft.9c20c18bef61fe82a7e0.png",
+    "static/media/Reactjs.png": "/portfoliov/static/media/Reactjs.3e66463b9b9e078b2ce4.png",
+    "static/media/Pendaki.png": "/portfoliov/static/media/Pendaki.06d32551e0648f16c37d.png",
+    "static/media/Tentangku.png": "/portfoliov/static/media/Tentangku.fb368fb301916703a11d.png",
+    "static/media/Pesulap.png": "/portfoliov/static/media/Pesulap.6e3af357f00ae94b14b4.png",
+    "static/media/Aboutme.png": "/portfoliov/static/media/Aboutme.fcd6e212edc3f53efcf3.png",
+    "static/media/CSS.png": "/portfoliov/static/media/CSS.69f3871f104a0095f95f.png",
+    "static/media/HTML.png": "/portfoliov/static/media/HTML.3c572db9911e2faa1c89.png",
+    "static/media/Tailwind.png": "/portfoliov/static/media/Tailwind.c40da802f09dfc98e5c6.png",
+    "static/media/Javascript.png": "/portfoliov/static/media/Javascript.f8846812f335c773da46.png",
+    "static/media/Kontaku.png": "/portfoliov/static/media/Kontaku.8c9f6740a3ee29f38843.png",
+    "static/media/Kesukaan.png": "/portfoliov/static/media/Kesukaan.c387e55cc384384485e4.png",
+    "index.html": "/portfoliov/index.html",
+    "main.02f9e8b3.css.map": "/portfoliov/static/css/main.02f9e8b3.css.map",
+    "main.5010d26e.js.map": "/portfoliov/static/js/main.5010d26e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02f9e8b3.css",
+    "static/js/main.5010d26e.js"
+  ]
+}
